@@ -1,16 +1,59 @@
-## Hi there 👋
+# Mirzoabdullo Mirzamukhamedov
 
-<!--
-**mirzooi/mirzooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Penetration Tester | Cybersecurity
 
-Here are some ideas to get you started:
+Cybersecurity student focused on penetration testing, web application
+security, network security, Linux, and security tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building practical experience through hands-on labs, vulnerable
+machines, security projects, and technical writeups.
+
+## Offensive Security
+
+- Network Reconnaissance
+- Web Application Security
+- Vulnerability Assessment
+- Linux Privilege Escalation
+- Active Directory Fundamentals
+- Enumeration
+- Exploitation Fundamentals
+- Security Automation
+
+## Tools
+
+- Kali Linux
+- Nmap
+- Burp Suite
+- Gobuster
+- Metasploit
+- Wireshark
+- Linux
+- Git
+- Python
+- Bash
+
+## Training
+
+- TryHackMe Junior Penetration Tester
+- OverTheWire Bandit
+- Hands-on cybersecurity labs
+
+## Projects
+
+### Linux Privilege Escalation Lab
+
+Hands-on research and testing of common Linux privilege escalation
+techniques in controlled environments.
+
+## Current Goal
+
+Seeking Junior Penetration Tester and Cybersecurity Internship
+opportunities.
+
+## Contact
+
+LinkedIn: Mirzoabdullo Mirzamukhamedov
+
+Email: #
+
+Portfolio: mirzooi.netlify.app
