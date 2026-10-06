@@ -1,22 +1,22 @@
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mirzooi">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Mark%20Lucas" alt="Hello! I'm Mark Lucas" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=655&height=44&lines=Junior%20Penetration%20Tester%20%7C%20Cybersecurity;Web%20Application%20Security;Network%20Security%20%7C%20Kali%20Linux;Security%20Labs%20%7C%20CTFs%20%7C%20Writeups" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=700&height=44&lines=Junior%20Penetration%20Tester%20%7C%20Cybersecurity;Web%20Application%20Security;Network%20Security%20%7C%20Kali%20Linux;Security%20Labs%20%7C%20CTFs%20%7C%20Writeups" alt="Typing headlines" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm Mark Lucas, a Cybersecurity student focused on penetration testing and offensive security.
+I'm Mirzoabdullo Mirzamukhamedov, a Cybersecurity student focused on penetration testing and offensive security.
 
 I'm building practical experience through hands-on labs, vulnerable machines, security projects, and technical writeups.
 
-🎯 My current focus:
+### 🎯 Current Focus
 
 - Web Application Penetration Testing
 - Network Reconnaissance
@@ -31,19 +31,15 @@ I'm building practical experience through hands-on labs, vulnerable machines, se
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Nmap-2ea043?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-2ea043?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Gobuster-2ea043?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2ea043?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-2ea043?style=for-the-badge&logo=wireshark&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Nmap-2ea043?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-2ea043?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-2ea043?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2ea043?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-2ea043?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
@@ -52,7 +48,6 @@ I'm building practical experience through hands-on labs, vulnerable machines, se
 
 ### TryHackMe
 
-- Cyber Security 101
 - Junior Penetration Tester
 - Nmap
 - Linux
@@ -131,9 +126,9 @@ Topics include:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mirzooi&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzooi&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -141,7 +136,7 @@ Topics include:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzooi&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -158,12 +153,12 @@ I'm looking for opportunities where I can develop my practical penetration testi
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/mirzooi">
+  <img src="https://img.shields.io/badge/GitHub-2ea043?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in//mirzoabdullo-mirzamukhamedov-2b51012ba/">
+  <img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
