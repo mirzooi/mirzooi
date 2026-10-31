@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mirzooi">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Mark%20Lucas" alt="Hello! I'm Mark Lucas" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Mark%20Lucas" alt="Hello! I'm Mirzoabdullo Mirzamukhamedov" />
   </a>
 </p>
 
